@@ -13,14 +13,11 @@ How can use it:
 You can use it to test what you like or need.  
 
 
-If you would like to use this code, please cite this paper 
+ this paper must be cited if the code is used or improved
 
 
-“Al-Hawawreh M, Sitnikova E. Industrial Internet of Things Based Ransomware Detection using Stacked Variational Neural Network. 
-InProceedings of the 3rd International Conference on Big Data and Internet of Things 2019 Aug 22 (pp. 126-130).” 
-
+ "Industrial Internet of Things Based Ransomware Detection using Stacked Variational Neural Network". 
 
 
 
-For any query or help contact me at:  Munahawari1@gmail.com 
 
